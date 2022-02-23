@@ -192,7 +192,7 @@ nav ul li a:hover {
 /* Work */
 
 .work-card h4 {
-  width: 40%;
+  width: 60%;
 }
 .work-card .card-img {
   width: 30%;
@@ -244,7 +244,7 @@ nav ul li a:hover {
   width: 65%;
   padding: 20px;
   font-size: 1.3rem;
-  word-spacing: 2px
+  word-spacing: 2px;
 }
 .blockquote-bordered:last-child {
   visibility: hidden;
@@ -264,7 +264,7 @@ nav ul li a:hover {
 }
 
 .copyright-text {
-  font-weight:500;
+  font-weight: 500;
   color: #222831;
   margin-top: 10px;
 }
@@ -303,10 +303,10 @@ nav ul li a:hover {
   }
   .work-card .card-img {
     width: 50%;
-}
-.work-card h4 {
-  width: 75%;
-}
+  }
+  .work-card h4 {
+    width: 90%;
+  }
 }
 
 @media screen and (max-width: 1050px) {
@@ -454,7 +454,7 @@ nav ul li a:hover {
 
   .card h4 {
     width: 60%;
-}
+  }
   .work-card h4 {
     width: 100%;
   }
@@ -484,7 +484,7 @@ nav ul li a:hover {
     width: 70%;
   }
   .work-card .card-img {
-    width: 35%;
+    width: 32%;
   }
 
   .blockquote-text {
